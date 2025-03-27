@@ -1,2 +1,2 @@
-# Hi, JavaScript
+# JavaScript
 to study JavaScript
