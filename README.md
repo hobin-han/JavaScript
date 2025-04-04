@@ -1,2 +1,4 @@
 # JavaScript
-to study JavaScript
+to study JavaScript~!!
+
+and GitHub~
